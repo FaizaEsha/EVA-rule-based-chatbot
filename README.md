@@ -56,7 +56,7 @@ Tkinter is included with most standard Python installations.
 Clone the repository:
 
 ```bash
-git clone https://github.com/FaizaEsha/eva-rule-based-chatbot.git
+git clone https://github.com/FaizaEsha/EVA-rule-based-chatbot.git
 ```
 
 Navigate to the project directory:
