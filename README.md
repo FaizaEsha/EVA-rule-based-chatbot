@@ -4,7 +4,7 @@
 
 ## About EVA
 
-EVA is a desktop-based rule-driven chatbot created to explore the foundations of conversational systems through practical programming and interface design.
+EVA(Esha's Virtual Assistant) is a desktop-based rule-driven chatbot created to explore the foundations of conversational systems through practical programming and interface design.
 
 Instead of relying on complex machine-learning models, EVA uses predefined rules and logical conditions to interpret user input and provide relevant responses. This approach keeps the system lightweight, predictable, and easy to understand while still creating an engaging conversational experience.
 
