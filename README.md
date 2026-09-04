@@ -62,7 +62,7 @@ git clone https://github.com/FaizaEsha/EVA-rule-based-chatbot.git
 Navigate to the project directory:
 
 ```bash
-cd eva-rule-based-chatbot
+cd EVA-rule-based-chatbot
 ```
 
 Run the chatbot:
