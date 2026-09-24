@@ -8,7 +8,6 @@ EVA(Esha's Virtual Assistant) is a desktop-based rule-driven chatbot created to 
 
 Instead of relying on complex machine-learning models, EVA uses predefined rules and logical conditions to interpret user input and provide relevant responses. This approach keeps the system lightweight, predictable, and easy to understand while still creating an engaging conversational experience.
 
-EVA was developed as a practical project during my **AI Internship at DecodeLabs in 2026**.
 
 ---
 
@@ -117,14 +116,6 @@ Possible future enhancements include:
 - Speech input and output
 - NLP-based intent classification
 - Machine-learning-assisted response handling
-
----
-
-## 💼 Internship Project
-
-EVA was created as part of my **AI Internship at DecodeLabs in 2026**, where I worked on practical projects designed to strengthen my understanding of artificial intelligence and software development through hands-on implementation.
-
-The project allowed me to take a conversational-system concept from idea to a functional desktop application while gaining experience in development, testing, and technical documentation.
 
 ---
 
